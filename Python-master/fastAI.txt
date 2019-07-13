@@ -1,0 +1,7 @@
+conda install -c pytorch pytorch-nightly-cpu
+
+conda install -c pytorch -c fastai fastai
+
+
+-------------------------------------------
+conda install -c conda-forge imbalanced-learn
